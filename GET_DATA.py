@@ -1,10 +1,10 @@
 """
 ###############################################################################
-              SIMULATION OF CRYPTOCURRENCY RETURNS - PART TWO
+            Using the Cryptocompare API to acquire historical data
 ###############################################################################
               
 Ethan Bienstock
-January 18, 2018
+February 18, 2018
 
 This file contains the code accompanying my post on acquiring historical 
 cryptocurrency data using the Cryptocompare API. 
